@@ -1,3 +1,4 @@
+刘玺/202411998366/计算机科学与技术
 # 布料模拟 - 质弹簧系统 (Mass-Spring Cloth Simulation)
 
 ## 项目概述

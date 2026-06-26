@@ -44,10 +44,3 @@ python run_lbs_lab.py --joint-id 5
 完整复现SMPL标准LBS线性蒙皮四步流程：体型系数形变→关节回归求解→姿态偏移修正→骨骼加权蒙皮；通过与官方库结果对标验证公式正确性，完成单关节、全关节权重可视化渲染。
 ```
 
-### 上传Git命令
-```bash
-git add lab8/
-git commit -m "lab8 SMPL蒙皮实验，移除超大模型，上传源码与说明文档"
-git push origin main
-```
-作业提交链接：`https://github.com/liuqwer999/CG-Lab/tree/main/lab8`
